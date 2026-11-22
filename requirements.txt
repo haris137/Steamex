@@ -1,0 +1,6 @@
+streamlit>=1.40
+# MUST match the version the model was trained with (Kaggle default), or the model file will not load
+scikit-learn==1.6.1
+pandas
+numpy
+joblib
